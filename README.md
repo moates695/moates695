@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcus Oates
 - 👀 I’m interested in making cool stuff
-- 🌱 I’m currently a Mechatronic Engineering & CompSci student @ UNSW
+- 🌱 I’m currently a Software Engineer at Downer EDI specialising in automating processes
 - 📫 How to reach me: marcusjoates@gmail.com
 
 <!---
