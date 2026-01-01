@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcus Oates
-- 👀 I’m interested in making cool stuff
-- 🌱 I’m currently a Software Engineer at Downer EDI specialising in automating processes
+- 👀 I’m interested in automating anything and everything
+- 🌱 I’m currently a Senior Software Engineer (ai & backend) @ Voxworks
 - 📫 How to reach me: marcusjoates@gmail.com
 
 <!---
